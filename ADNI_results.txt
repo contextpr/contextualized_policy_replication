@@ -1,0 +1,38 @@
+Dataset: adni | Model: context_RNN_64_0.0001
+========================
+AUROC:	 0.723 +/- 0.021 
+AUPRC:	 0.882 +/- 0.019 
+Brier:	 0.148 +/- 0.010 
+F1:	 0.880 +/- 0.012 
+
+
+Dataset: adni | Model: context_LSTM_64_0.0001
+========================
+AUROC:	 0.723 +/- 0.020 
+AUPRC:	 0.882 +/- 0.015 
+Brier:	 0.148 +/- 0.010 
+F1:	 0.881 +/- 0.012 
+
+
+Dataset: adni | Model: baseline_RNN_64
+========================
+AUROC:	 0.716 +/- 0.021 
+AUPRC:	 0.880 +/- 0.018 
+Brier:	 0.149 +/- 0.011 
+F1:	 0.883 +/- 0.011 
+
+
+Dataset: adni | Model: baseline_LSTM_64
+========================
+AUROC:	 0.712 +/- 0.022 
+AUPRC:	 0.879 +/- 0.019 
+Brier:	 0.152 +/- 0.012 
+F1:	 0.881 +/- 0.016 
+
+
+Dataset: adni | Model: Logistic_Regression
+========================
+AUROC:	 0.661 +/- 0.027 
+AUPRC:	 0.863 +/- 0.014 
+Brier:	 0.158 +/- 0.009 
+F1:	 0.870 +/- 0.011 

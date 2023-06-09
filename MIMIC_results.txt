@@ -1,0 +1,38 @@
+Dataset: mimic | Model: context_RNN_64_0.01
+========================
+AUROC:	 0.821 +/- 0.011 
+AUPRC:	 0.901 +/- 0.009 
+Brier:	 0.137 +/- 0.005 
+F1:		 0.884 +/- 0.006 
+
+
+Dataset: mimic | Model: context_LSTM_64_0.001
+========================
+AUROC:	 0.817 +/- 0.012 
+AUPRC:	 0.901 +/- 0.005 
+Brier:	 0.139 +/- 0.004 
+F1:		 0.880 +/- 0.006 
+
+
+Dataset: mimic | Model: baseline_RNN_64
+========================
+AUROC:	 0.827 +/- 0.008 
+AUPRC:	 0.902 +/- 0.007 
+Brier:	 0.133 +/- 0.005 
+F1:		 0.881 +/- 0.007 
+
+
+Dataset: mimic | Model: baseline_LSTM_64
+========================
+AUROC:	 0.835 +/- 0.009 
+AUPRC:	 0.908 +/- 0.005 
+Brier:	 0.132 +/- 0.003 
+F1:		 0.882 +/- 0.005 
+
+
+Dataset: mimic | Model: Logistic_Regression
+========================
+AUROC:	 0.572 +/- 0.030 
+AUPRC:	 0.796 +/- 0.031 
+Brier:	 0.200 +/- 0.007 
+F1:		 0.835 +/- 0.009 
