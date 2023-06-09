@@ -45,4 +45,3 @@ dependencies:
       - torchvision==0.15.2
       - typing-extensions==4.6.3
       - urllib3==2.0.3
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/cpr
