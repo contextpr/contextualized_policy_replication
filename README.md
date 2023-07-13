@@ -1,6 +1,7 @@
 # Contextualized Policy Recovery
 
-This repository contains the code for replicating the results presented in the paper Modeling and *Interpreting Medical Decisions with Adaptive Imitation Learning*.
+This repository contains the code for replicating the results presented in the paper *Contextualized Policy Recovery: Modeling and
+Interpreting Medical Decisions with Adaptive Imitation Learning*.
 
 ## Installation
 
